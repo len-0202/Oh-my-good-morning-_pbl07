@@ -13,6 +13,9 @@ pass
 
 ```
 
+#### ラズパイ本体への上書きは同じWifiに接続する必要があります
+#### 持ち帰って作業を行う際はPC上でのデバッグのみになります
+
 
 # TODO
 
@@ -38,3 +41,12 @@ Connect to Host
 
 ssh pbl6@IP
 <img width="988" height="245" alt="スクリーンショット 2026-05-08 143925" src="https://github.com/user-attachments/assets/4c39e551-d5b4-48ce-8d01-e4593e486480" />
+
+# リポジトリを各自PCにclone
+PowerShell
+```Bash
+cd ~
+git clone https://github.com/ユーザー名/リポジトリ名.git
+```
+
+cloneしたフォルダをVSCで開く→開発
