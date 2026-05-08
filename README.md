@@ -5,12 +5,12 @@ NITIC 4th grade PBL group 7
 Raspberry pi
 ユーザー名
 ```Bash
-
+pbl7
 ```
 
 pass
 ```Bash
-
+ohmygood
 ```
 
 #### ラズパイ本体への上書きは同じWifiに接続する必要があります
@@ -23,7 +23,7 @@ pass
 # PCからSSH接続
 PowerShell
 ```Bash
-ssh pi@170.20.10.6
+ssh pi@10.158.66.79
 ```
 ```Bash
 yes
