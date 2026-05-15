@@ -54,3 +54,6 @@ Connect to Host
 
 pbl6@10.158.66.79
 <img width="988" height="245" alt="スクリーンショット 2026-05-08 143925" src="https://github.com/user-attachments/assets/4c39e551-d5b4-48ce-8d01-e4593e486480" />
+
+# フローチャート
+
