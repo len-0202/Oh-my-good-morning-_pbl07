@@ -21,10 +21,10 @@ ohmygood
 
 
 # リポジトリを各自PCにclone
+保存したいディレクトリでcmd
 PowerShell
 ```Bash
-cd ~
-git clone https://github.com/ユーザー名/リポジトリ名.git
+git clone https://github.com/len-0202/Oh-my-good-morning-_pbl07
 ```
 
 cloneしたフォルダをVSCで開く→開発
